@@ -23,6 +23,7 @@ Since a significant portion of sales occurs without discounts (57.35%), business
 ![Image](https://github.com/user-attachments/assets/9fb11f2c-c19a-4294-a92d-80f6d2dfe0f0)
 
 - Step 9 : Created a tree visual to display the top 10 locations based on total sales.
+  
 ![Image](https://github.com/user-attachments/assets/5f0affd5-d1fe-41a4-91aa-732d9ac8dbb5)
 
 - Step 10 : Created a pie chart to display discount usage and subscription status.
