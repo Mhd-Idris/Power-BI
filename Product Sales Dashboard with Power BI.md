@@ -33,6 +33,7 @@ Since a significant portion of sales occurs without discounts (57.35%), business
 ![Image](https://github.com/user-attachments/assets/03ed4c36-82be-4e6c-862a-99caed4b87ca)
 
 - Step 12 : Added a slicer to filter category, item, shipping type, color, size, and payment method. Also, included additional filters to reset the dashboard to its default state.
+  
 ![Image](https://github.com/user-attachments/assets/f01bcc8a-8e73-4db5-9712-af606b617d8f)
 
 - Step 13 : Finalized the layout by arranging all created visuals for better readability and presentation.
