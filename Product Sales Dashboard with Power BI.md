@@ -18,16 +18,22 @@ Since a significant portion of sales occurs without discounts (57.35%), business
 ![Image](https://github.com/user-attachments/assets/5de1dddd-236d-420a-a134-c38ac47ad800)
 - Step 7 : Created a bar chart to display the top 10 selling products, a pie chart to show performance by gender, and another pie chart for category by gender.
 ![Image](https://github.com/user-attachments/assets/7293ea14-743b-4ec4-84f1-76a670f18cb8)
+
 - Step 8 : Added a slicer to filter total sales, average sales, number of items, and average ratings.
 ![Image](https://github.com/user-attachments/assets/9fb11f2c-c19a-4294-a92d-80f6d2dfe0f0)
+
 - Step 9 : Created a tree visual to display the top 10 locations based on total sales.
 ![Image](https://github.com/user-attachments/assets/5f0affd5-d1fe-41a4-91aa-732d9ac8dbb5)
+
 - Step 10 : Created a pie chart to display discount usage and subscription status.
 ![Image](https://github.com/user-attachments/assets/2308db6c-e785-4ebd-b8cb-30ff49256821) 
+
 - Step 11 : Created a matrix visual to show total sales, number of items, average sales, and average rating based on season.
 ![Image](https://github.com/user-attachments/assets/03ed4c36-82be-4e6c-862a-99caed4b87ca)
+
 - Step 12 : Added a slicer to filter category, item, shipping type, color, size, and payment method. Also, included additional filters to reset the dashboard to its default state.
 ![Image](https://github.com/user-attachments/assets/f01bcc8a-8e73-4db5-9712-af606b617d8f)
+
 - Step 13 : Finalized the layout by arranging all created visuals for better readability and presentation.
 
 
