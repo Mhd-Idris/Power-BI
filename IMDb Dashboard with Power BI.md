@@ -8,7 +8,7 @@ This dashboard provides insights into the performance of movies based on their b
 
 ### Steps followed 
 
-- Step 1 : Load movie dataset into Power BI Desktop; dataset contains information on movies, budgets, and earnings, a CSV file.
+- Step 1 : Load movie dataset into Power BI Desktop; dataset contains information on movies, a CSV file.
 - Step 2 : Open Power Query Editor and check the column distribution, column quality, and column profile under the "View" tab.
 - Step 3 : Since by default, profiling is done only for 1,000 rows, select "Column Profiling Based on Entire Dataset" to analyze all rows.
 - Step 4 : Perform data cleaning by removing unnecessary data, such as empty columns, especially in the budget and worldwide gross sections, and separating the release year from the country of origin.
