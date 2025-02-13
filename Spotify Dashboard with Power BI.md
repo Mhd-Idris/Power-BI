@@ -13,21 +13,37 @@ This dashboard provides insights into Spotify streaming data, analyzing total st
 - Step 3 : Since by default, profiling is done only for 1,000 rows, select "Column Profiling Based on Entire Dataset" to analyze all rows.
 - Step 4 : Performed data cleaning and manipulating by removing unnecessary data, ensuring uniformity in date formats, and standardizing numeric values to generate more accurate results.
 - Step 5 : Created the dashboard layout and header before proceeding with data visualization.
+
 ![Image](https://github.com/user-attachments/assets/71270cad-606a-4a7e-93f5-dca8cd000c62) 
+
 - Step 6 : Designed visualizations displaying total streams, tracks, and average streams.
+
 ![Image](https://github.com/user-attachments/assets/66b145c2-5e34-42a3-b06b-cf6696c0ba56)
+
 - Step 7 : Added a line chart showcasing streaming trends by release year.
+
 ![Image](https://github.com/user-attachments/assets/28c93e22-53d3-429f-8838-5543e38fca56)
+
 - Step 8 : Developed a visualization for monthly track count and average streams.
+
 ![Image](https://github.com/user-attachments/assets/a7470eba-8c07-4028-9ef1-fabc876aed5e)
+
 - Step 9 : Added a bar chart displaying daily streams for all tracks.
+
 ![Image](https://github.com/user-attachments/assets/a0bc6308-10be-4622-a46c-e62c4005a235)
+
 - Step 10 : Created an "Artist(s) Most Streamed Track" section, which includes track name, release date, streams, mode, key, artist(s) name, and cover.
+
 ![Image](https://github.com/user-attachments/assets/13caad40-81a7-4825-9cd5-643b65fe9393)
+
 - Step 11 :Built a visualization for the top 10 most streamed tracks, including artist name, track name, and cover.
+
 ![Image](https://github.com/user-attachments/assets/e3926b92-8977-4a16-a064-1ebeebb654e9)
+
 - Step 12 : Added a pie chart showing the top 3 streamed artists.
+
 ![Image](https://github.com/user-attachments/assets/b75b5426-fe89-4a27-911a-7398b123b0b8)
+
 - Step 13 : Finally, I arranged all visuals on the dashboard to ensure a clear and visually appealing layout
 
 
